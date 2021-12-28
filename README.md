@@ -1,6 +1,6 @@
 /* 
 *
-+  I’m @srtoxyc.
+*  I’m @srtoxyc.
 *
 *  I'm a beginner programmer who is learning C++ and Java at the moment.
 *  Pretty interested in programming in general, but mostly in backend, databases and also in visual applications,
