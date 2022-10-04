@@ -1,4 +1,4 @@
-![srtoxyc_front](toxyc_githubfront.png)
+![srtoxyc_front](img/toxyc_githubfront.png)
 
 <p>
     <h1 align="center"><b>Hi, I'm ToxYc!</b></h1>
