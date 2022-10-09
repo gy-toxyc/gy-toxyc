@@ -57,6 +57,6 @@
 <a href="https://twitter.com/srtoxyc"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
 <a href="https://www.twitch.tv/srtoxyc"> ![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white) </a>
 <a href="https://www.instagram.com/srtoxyc/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
-![Discord](https://img.shields.io/badge/ToxYc_8889-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+![Discord](https://img.shields.io/badge/ToxYc_8890-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
