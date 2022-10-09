@@ -10,7 +10,7 @@
 
 - 🎮 Currently working on a game called **Fall of the Gods**
 
-- 📧 Mail me if you feel to! <a href="mailto:ivm1000vm@gmail.com">Here!</a>
+- 📧 Mail me if you feel to <a href="mailto:ivm1000vm@gmail.com">here!</a>
 
 ***
 
