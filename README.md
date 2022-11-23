@@ -1,6 +1,6 @@
 ![srtoxyc_front](img/toxyc_githubfront.png)
 
-<h1 align="center">☢️​ <b><i>Hi, I'm `ToxYc`!</b></i> ☢️​</h1>
+<h1 align="center">☢️​ <b><i>Hi, I'm ToxYc!</b></i> ☢️​</h1>
 <h3 align="center"><i>I'm a beginner programmer, but passionate about coding. I'm constantly pushing my limits forward and trying to learn new technologies.</i></h3>
 <br>
 
