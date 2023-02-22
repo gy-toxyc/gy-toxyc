@@ -1,21 +1,3 @@
-<style>
-    @import "https://fonts.google.com/specimen/Lexend";
-
-    * {
-        font-family: 'Lexend';
-    }
-
-    a {
-        color: #ffbc05;
-        transition: .5s;
-    }
-
-    a:hover {
-        transition: .5s;
-        filter: brightness(120%);
-    }
-</style>
-
 ![srtoxyc_front](img/toxyc_githubfront.png)
 
 <h1 align="center"><b><i>I'm <span style="color: #ffbc05">ToxYc</span></b></i>​</h1>
@@ -26,7 +8,7 @@
 
 - 🌌​ Project group: <a href="https://github.com/GY-CODING" style="color: #ffbc05">GY Coding</a>.
 
-- 🎮 Currently working on a game called **Fall of the Gods**.
+- 🎮 Currently working on a game called **Fall of the Gods**
 
 - 📧 Mail me if you feel to! <a href="mailto:ivm1000vm@gmail.com" style="color: #ffbc05">Here!</a>
 
