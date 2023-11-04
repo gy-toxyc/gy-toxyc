@@ -1,4 +1,4 @@
-![srtoxyc_front](img/toxyc_githubfront.png)
+![srtoxyc_front](img/toxyc_githubfront_2.png)
 
 <h1 align="center"><b><i>Hi, I'm <span style="color: #fff">ToxYc</span></b></i>​</h1>
 <h3 align="center"><i>I'm a beginner programmer, but passionate about coding. I'm constantly pushing my limits forward and trying to learn new technologies.</i></h3>
