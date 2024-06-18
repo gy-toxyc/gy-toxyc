@@ -8,11 +8,10 @@
 ***
 
 <h3 align="center"><b><i>Connect with me</b></i></h3>
-<br>
 <div align="center">
 
-<a href="https://twitter.com/srtoxyc"> ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white) </a>
-<a href="https://www.instagram.com/srtoxyc/"> ![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) </a>
-![Discord](https://img.shields.io/badge/srtoxyc-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
+[![Twitter](https://img.shields.io/badge/srtoxyc-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srtoxyc)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/srtoxyc/)
+![Discord](https://img.shields.io/badge/srtoxyc-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
 </div>
