@@ -15,7 +15,7 @@
   
 <div align="center">
   
-[![Mail](https://img.shields.io/badge/Mail_me!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ivm1000vm@gmail.com)
+[![Mail](https://img.shields.io/badge/Mail_me!-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:toxyc@gycoding.com)
 [![Twitter](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/srtoxyc)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/srtoxyc/)
 ![Discord](https://img.shields.io/badge/srtoxyc-5865F2?style=for-the-badge&logo=discord&logoColor=white)
