@@ -5,7 +5,7 @@
 <div align="center" style="display: flex; align-items: flex-start;">
   
 ![GitHubStats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=gy-toxyc&theme=dark)
-![GitHubLanguages](https://github-readme-stats.vercel.app/api/top-langs/?username=gy-toxyc&theme=dark)
+![GitHubLanguages](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api/top-langs/?username=gy-toxyc&include_orgs=true&theme=dark)
 
 </div>
 
